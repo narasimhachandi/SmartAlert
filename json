@@ -1,0 +1,10 @@
+{
+    "train_file" : "C:/Users/narasimha.chandi/OneDrive - HCL TECHNOLOGIES LIMITED/Desktop/Testing/TrainDataFolder/TrainData.csv",
+    "additional_data_folder" : "C:/Users/narasimha.chandi/OneDrive - HCL TECHNOLOGIES LIMITED/Desktop/Testing/RetrainFolder",
+    "artifacts" : "C:/Users/narasimha.chandi/OneDrive - HCL TECHNOLOGIES LIMITED/Desktop/Testing/Artifacts/train_data.pkl",
+    "input_folder" : "C:/Users/narasimha.chandi/OneDrive - HCL TECHNOLOGIES LIMITED/Desktop/Testing/InputFolder",
+    "output_folder_master" : "C:/Users/narasimha.chandi/OneDrive - HCL TECHNOLOGIES LIMITED/Desktop/Testing/OutputFolder/MasterFolder",
+    "output_folder_actionable" : "C:/Users/narasimha.chandi/OneDrive - HCL TECHNOLOGIES LIMITED/Desktop/Testing/OutputFolder/ActionableFolder",
+    "retrain_folder" : "C:/Users/narasimha.chandi/OneDrive - HCL TECHNOLOGIES LIMITED/Desktop/Testing/RetrainFolder",
+    "solutions_file" : "C:/Users/narasimha.chandi/OneDrive - HCL TECHNOLOGIES LIMITED/Desktop/Testing/SolutionsFolder/RAGFile.csv"
+}
